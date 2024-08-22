@@ -15,4 +15,3 @@
 [![My Skills](https://skillicons.dev/icons?i=css3,html5,bootstrap,javascript&perline=4)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,mongodb,nodejs&perline=4)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodemon,npm,jwt,expressjs,react,jquery,tailwindcss,redux&perline=4)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postman,python,figma,git,github,aws&perline=4)](https://skillicons.dev)
