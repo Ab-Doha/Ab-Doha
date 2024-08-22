@@ -12,6 +12,8 @@
 
 ### Skills and Experience:
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 - CSS3  - HTML5  - Bootstrap  - JavaScript
 - PHP - MySQL
 - MongoDB - Nodejs - Nodemon - NPM - JWT - Expressjs
