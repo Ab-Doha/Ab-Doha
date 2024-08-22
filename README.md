@@ -10,3 +10,21 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Ab-Doha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/doha-abdallah-99726b312//)  
 
 ### Tech Stack:
+- CSS3
+- HTML5
+- Bootstrap
+- JavaScript
+- PHP
+- MySQL
+- MongoDB
+- React
+- Nodejs
+- Expressjs
+- AWS
+- TailwindCSS
+- Redux
+- Python
+- Figma
+- Git
+- Github
+- POSTMAN
