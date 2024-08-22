@@ -12,17 +12,10 @@
 
 ### Skills and Experience:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css3,html5,bootstrap,javascript&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,mongodb,nodejs&perline=4)](https://skillicons.dev)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-
-- CSS3  - HTML5  - Bootstrap  - JavaScript
-- PHP - MySQL
-- MongoDB - Nodejs - Nodemon - NPM - JWT - Expressjs
+- Nodemon - NPM - JWT - Expressjs
 - React - JQUERY - TailwindCSS - Redux
 - POSTMAN
 - Python
