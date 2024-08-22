@@ -1,10 +1,6 @@
 ### Hi there 👋, I am Doha Abdallah, A Full Stack Software Engineer To Be
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm based in Lebanon
-I’m currently working on Mern Stack project
-I’m currently learning Typescript and Laravel
-How to reach me: dohaabdallah9714@gmail.com
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
