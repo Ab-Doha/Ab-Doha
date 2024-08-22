@@ -11,7 +11,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Ab-Doha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/doha-abdallah-99726b312//)  
 
 ### Skills and Experience:
-
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
@@ -42,6 +41,3 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 	<code><img width="50" src="https://github.com/user-attachments/assets/4cf282d2-b46f-43b7-aab6-19604cc5a683" alt="Kali Linux" title="Kali Linux"/></code>
 </div>
-
-[![My Skills](https://skillicons.dev/icons?i=html5,css3,bootstrap,javascript,tailwindcss,mysql,php,mongodb,expressjs,react,npm,postman,nodejs,figma,git&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github,python,java,nodemon&theme=light)](https://skillicons.dev)
