@@ -12,4 +12,4 @@
 
 ### Skills and Experience:
 
-[![My Skills](https://skillicons.dev/icons?i=html5,css3,bootstrap,javascript,tailwindcss,mysql,php,mongodb,expressjs,react,npm,postman,,nodejs,figma,git,github,python&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html5,css3,bootstrap,javascript,tailwindcss,mysql,php,mongodb,expressjs,react,npm,postman,nodejs,figma,git,github,python&theme=light)](https://skillicons.dev)
