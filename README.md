@@ -3,7 +3,7 @@
 ### About Me:
 
 - 🔭 I’m currently working on Mern Stack project
-- 🌱 You can contact me at dohaabdallah9714@gmail.com
+- <i class="bi bi-envelope-fill"></i> You can contact me at dohaabdallah9714@gmail.com
 - 🌱 I’m currently learning TypeScript and Laravel
 
 ### Socials:
