@@ -12,6 +12,4 @@
 
 ### Skills and Experience:
 
-[![My Skills](https://skillicons.dev/icons?i=css3,html5,bootstrap,javascript&perline=4)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=php,mysql,mongodb,nodejs&perline=4)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodemon,jwt,expressjs,react,jquery,tailwindcss,redux&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css3,html5,bootstrap,javascript,php,mysql,mongodb,nodejs,nodemon,jwt,expressjs,react,jquery,tailwindcss,redux&perline=15)](https://skillicons.dev)
