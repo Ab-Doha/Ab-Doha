@@ -4,8 +4,8 @@
 
 - 🌱 I'm based in Lebanon
 - 🌱 I’m currently working on Mern Stack project
+- 🌱 I’m currently learning React
 - 🌱 You can contact me at dohaabdallah9714@gmail.com
-- 🌱 I’m currently learning TypeScript and Laravel
 
 ### Socials:
 
