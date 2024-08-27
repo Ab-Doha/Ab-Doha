@@ -2,9 +2,9 @@
 
 ### About Me:
 
-- 🌱 I'm based in Lebanon
-- 🌱 I’m currently working on Mern Stack project
-- 🌱 I’m currently learning React
+- I'm based in Lebanon
+- I’m currently working on Mern Stack project
+- I’m currently learning React
 
 ### Socials:
 
