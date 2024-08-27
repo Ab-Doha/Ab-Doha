@@ -1,4 +1,4 @@
-### Hi there 👋, I am Doha Abdallah, A Full Stack Software Engineer To Be
+### Hi there 👋, I am Doha Abdallah, A Full Stack Software Developer To Be
 
 ### About Me:
 
